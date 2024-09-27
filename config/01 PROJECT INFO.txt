@@ -1,0 +1,9 @@
+**Log on to codeastro.com for more projects!**
+
+
+**Installation**
+
+Insert your own Google OAuth & MongoDB URI credentials under "config.env" file!
+
+- npm install
+- npm start
